@@ -3,6 +3,7 @@
 # Indice
 ## ¿Qué es la contaminación ambiental?
 ## Residuos informáticos
-## Obsolescencia programada e informática ecológica
+## Obsolescencia programada 
+## Informática ecológica
 # Referencia
 # Autores
