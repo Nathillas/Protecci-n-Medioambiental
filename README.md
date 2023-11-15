@@ -16,7 +16,9 @@ Obsolescencia Programada
 Informática Ecológica
  * Información: Consulta de ChatGPT
  * Imágen: Tenor
-
+Residuos
+ * Informacion: Google
+ * Imagen: Grafica.info
 # Autores
 * **César Gómez Gómez**
 * **Salvador Peña Barco**
