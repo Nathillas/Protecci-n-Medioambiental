@@ -3,9 +3,20 @@
 # Indice
 ## [¿Qué es la contaminación ambiental?](contaminacion.md)
 ## [Residuos informáticos](residuos.md)
+## [Contaminación](contaminacion.md)
 ## [Obsolescencia programada](ObsolescenciaProgramada.md) 
 ## [Informática ecológica](InformaticaEcologica.md)
-# Referencia
+# Referencias
+Contaminación:
+  * Información: Consulta de CHatGPT
+  * Imagen: Foro Nuclear
+Obsolescencia Programada
+ * Información: Consulta de ChatGPT
+ * Imágen: Tenor
+Informática Ecológica
+ * Información: Consulta de ChatGPT
+ * Imágen: Tenor
+
 # Autores
 * **César Gómez Gómez**
 * **Salvador Peña Barco**
