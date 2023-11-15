@@ -1,5 +1,5 @@
 # Obosolescencia Programada
-> "El agua y el aire, los dos fluidos esenciales de los que depende la vida, se han convertido en latas globales de basura"- Jacques Cousteau
+> "*El agua y el aire, los dos fluidos esenciales de los que depende la vida, se han convertido en latas globales de basura*"- Jacques Cousteau
 
 Aquello descrito como obsolescencia programada, es la practica de aquellos fabricantes electrónicos destinados a darles una vida útil limitada con el único objetivo de que se vuelva completamente obsoleto, inutil o incapaz de utlizarse tras un periodo de tiempo o de usos dados por el usuario.
 
