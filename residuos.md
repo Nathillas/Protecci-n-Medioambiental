@@ -1,5 +1,7 @@
 # Resudios Informáticos
 
+![logoreciclaje](/img/logoreciclaje.jpg)
+
 También llamados deshechos electrónicos, son productos electrónicos descartados, obsoletos o en desuso.
 Incluyen una gran variedad de dispositivos electronicos.
 Según el último informe del Programa de Naciones Unidas para el Medio Ambiente(PNUMA), se generan millones de toneladas de residuos electronicos al año. Este volumen crece entre el 16% y 28% al año.
