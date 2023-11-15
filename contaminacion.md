@@ -9,3 +9,5 @@ Algunos de los contaminantes más comunes son gases tóxicos, sustancias radiact
 * **Contaminacion del suelo**:Implica la presencia de sustancias tóxicas en el suelo, que pueden provenir de vertidos industriales,residuos solidos, pesticidas agricolas y otras fuentes.
 * **Contaminacion acústica**:Consiste en la presencia excesiva de ruido en el entorno, generado por actividades humanas como el tráfico vehicular, la industria, la construcción y otras fuentes sonoras.
 * **Contaminacion lumínica**:Se refiere a la presencia excesiva de luz artificial en el entorno, especialmente en áreas urbanas, lo que puede interferir con los ciclos naturales del día y la noche, afectando a los ecosistemas y la observación del cielo nocturno.
+
+[Volver Atrás](README.md)
