@@ -14,4 +14,8 @@ Los españoles producimos más de un millon de toneladas al año, de las cuales 
 Los aparatos electrónicos, una ve que se convierten en residuos, son altamente contaminantes.
 Por una parte estan los componentes plasticos, que acaban en los rios y mar.
 Por otra parte 
+
 ## Dónde reciclar estos residuos
+El lugar más seguro donde reciclar estos residuos es el punto limpio más cercano a tu ciudad; allí los elementos que hayan sido llevados serán clasificados según que componentes sean y cuales son sus característcas para así asegurarse de que elemento es recliclado correctamente.
+
+[Volver Atrás](README.md)
