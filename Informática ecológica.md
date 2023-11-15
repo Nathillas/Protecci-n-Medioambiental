@@ -1,1 +1,0 @@
-# Informática ecológica
