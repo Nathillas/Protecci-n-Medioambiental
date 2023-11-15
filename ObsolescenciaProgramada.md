@@ -17,3 +17,6 @@ Esta obsolescencia puede manifestarse de diversas maneras listadas debajo:
 * **Obsolescencia de software**: Se lanzan actualizaciones de software que hacen que los productos antiguos sean incompatibles o menos eficientes. Presente para dispositivos al que se le van introduciendo actualizaciones más ralentizantes y más demandantes, forzando el uso de los elementos del mismo hasta que no pueda más
 
 * **Obsolescencia de repuestos**: Se dificulta la obtención de piezas de repuesto, haciendo que sea más difícil o costoso reparar un producto. Presente en dispositivos más antiguos, con la idea de eliminar los repuestos de los dispositivos de mayor antigüedad poco a poco quedándose sin los propios repuestos que aún podrían salvar la vida útil.
+
+
+[Volver Atrás](README.md)
