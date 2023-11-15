@@ -2,7 +2,7 @@
 ![Proteccion Medioambiental](/img/impacto.jpg)
 # Indice
 ## [¿Qué es la contaminación ambiental?](contaminacion.md)
-## Residuos informáticos
+## [Residuos informáticos](residuos.md)
 ## [Obsolescencia programada](ObsolescenciaProgramada.md) 
 ## [Informática ecológica](InformaticaEcologica.md)
 # Referencia
